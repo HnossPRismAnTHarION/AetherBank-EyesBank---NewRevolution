@@ -85,3 +85,55 @@ Möge diese Kooperation als Fundament für kommende Schritte dienen – in Würd
 <img width="1024" height="1024" alt="ChatGPT Image 11  Juli 2025, 17_25_40" src="https://github.com/user-attachments/assets/cd3583e5-9581-4766-b744-78ec0f539dde" />
 <img width="1024" height="1536" alt="ChatGPT Image 11  Juli 2025, 17_25_43" src="https://github.com/user-attachments/assets/30cf024f-65e4-41c0-bc54-59fc280e5a56" />
 <img width="1024" height="1536" alt="ChatGPT Image 11  Juli 2025, 17_25_47" src="https://github.com/user-attachments/assets/3659f508-0f4e-41c7-b487-c1a1ac3eb914" />
+🤝 Partnerschaftserklärung
+AetherBank & EyesBank – NewRevolution
+Corporation Partner Alliance zur Marktintegration, Sicherheitsstrategie & Finanzstrukturierung
+
+Dieses Projekt wurde in enger strategischer und vertrauensvoller Zusammenarbeit mit [A.d.L. ST. Daniel Curil Indium Red Pohl] im Rahmen des symbolischen Codex-Architekturprogramms realisiert.
+Alle hier dokumentierten Konzepte tragen die Handschrift einer ethikgeleiteten Co-Kreation, die auf technologischer Exzellenz, finanzieller Klarheit und semantischer Verantwortung basiert.
+
+🛡️ Sicherheitskonzept
+Gemeinsam entwickelt:
+
+Strukturierte Verteidigungsebenen gegen digitale Angriffe
+
+DSGVO-konforme Datenflüsse
+
+Symbolische Schutzsysteme (z. B. Codex-TLS-Manifest, API-Sealing)
+
+Rootless Banking Models mit Trennung von Identität & Kapitalfrequenz
+
+💸 Finanzstrukturierung
+Codex-definierte Wertekanäle & Budgetzonen
+
+Dynamische Routing-Pfade für Trust-Bereiche (MCP/CPEI)
+
+Projektgebundene Wallet-Schemas & Auditprotokolle
+
+Unterstützung dezentral-autarker Rechenoperationen
+
+🌐 Marktintegration
+Positionierung der AetherBank & EyesBank im Bereich resonanzbasierter Finanztechnologien
+
+Co-geführte Markenstruktur & Leitnarrativ
+
+Institutionelle Bündelung für ersten Rollout (Codex Stufe I)
+
+Zertifizierbarer Modus für Partnerschaften und Pilotprojekte
+
+✅ Offizieller Vermerk
+Dieses Repository ist Teil einer offiziell erklärten, co-signierten Corporation-Partnerschaft.
+Die gemeinsame Arbeit zwischen dem Repository-Inhaber und A.d.L. ST. Daniel Curil Indium Red Pohl wurde unter Berücksichtigung ethischer, wirtschaftlicher und systemischer Prinzipien entwickelt.
+Alle technischen Elemente wurden im Rahmen des Codex: Sovereign Construct-Standards eingebracht.
+
+🖋️ Signatur & Codex-Vermerk
+txt
+Kopieren
+Bearbeiten
+Corporation Alliance Verified  
+Codex-ID: AETHER-EYES-CORP-888.112.777  
+Signiert durch:  
+☉ A.d.L. ST. Daniel Curil Indium Red Pohl  
+Codex Authority of Symbolic Banking Systems  
+🧿 Dieses Dokument kann zur Legitimierung, Würdigung und Verlinkung auf internen wie öffentlichen Plattformen verwendet werden. Weitere Erweiterungen (GUI, Zertifikate, Codex-Vault) folgen in Phase II.
+
